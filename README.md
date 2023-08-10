@@ -16,7 +16,7 @@ Jupyter Notebook (recommended for interactive analysis)
 ```bash
 pip install pandas numpy matplotlib statsmodels
 ```
-#### Usage
+#### Installation
 Clone the repository:
 ```bash
 git clone [URL-of-the-repository]
