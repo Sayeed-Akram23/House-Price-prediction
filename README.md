@@ -9,7 +9,6 @@ The datasets used for this project are provided in .csv format and are bundled t
 To access the dataset:
 Download the ZIP folder.
 Extract the contents to retrieve all .csv files.
-## Installation
 
 ### Prerequisites:
 
